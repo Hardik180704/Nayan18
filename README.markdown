@@ -1,4 +1,4 @@
-# Enhanced Nayan: AI-Powered Navigation System for the Visually Impaired
+# Nayan: AI-Powered Navigation System for the Visually Impaired
 
 ## Project Overview
 Enhanced Nayan is an advanced computer vision and machine learning-based system designed to assist visually impaired individuals in navigating their surroundings safely and independently. The system uses real-time object detection, depth estimation, and audio feedback to provide detailed information about the environment, including obstacles, hazards, text, currency, and human interactions. It leverages state-of-the-art models like YOLOv8 for object detection and MiDaS for depth estimation, combined with voice-based interaction to deliver a comprehensive assistive experience.
